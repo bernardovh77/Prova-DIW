@@ -1,0 +1,55 @@
+body {
+    background-color: white;
+    margin: 0;
+}
+table {
+    width: 30%;
+    border-collapse: collapse;
+    margin: 40px auto 0 auto;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    display: flex;
+}
+td {
+    border: 1px solid grey;
+    padding: 20px;
+}
+#cabecalho {
+    background-color: #2d3e50;
+    color: white;
+}
+#titulo {
+    text-align: center;
+    font-weight: bold;
+}
+#conteudo {
+    background-color: white;
+}
+#imagem {
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 100px;
+}
+#img {
+    border: 3px solid #2d3e50;
+    border-radius: 100px;
+}
+#nome {
+    color:#2d3e50;
+    font-weight: bold;
+}
+#apresentacao {
+    color: black;
+}
+#subtitulo {
+    color: black;
+    font-weight: bold;
+}
+#rodape {
+    background-color:#ecf0f1;
+}
+#direitos {
+    text-align:center;
+    color: #a4a6a7;
+}
